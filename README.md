@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Pedro Bertochi, a passionate software develope
 - Machine Learning with Python
 
 ## 📫 How to Reach Me
-- **Email:** pedro.bertok@gmail.com
+- **Email:** pedro.h.bertochi.s@gmail.com
 - **LinkedIn:** [Pedro Bertochi]()
 
 ## 📈 GitHub Stats
