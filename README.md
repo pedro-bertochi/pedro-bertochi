@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Pedro Bertochi, a passionate software develope
 
 ## 📫 How to Reach Me
 - **Email:** pedro.h.bertochi.s@gmail.com
-- **LinkedIn:** [Pedro Bertochi]()
+- **LinkedIn:** [Pedro Bertochi](https://www.linkedin.com/in/pedro-henrique-bertochi-de-sousa-2a289b353/)
 
 ## 📈 GitHub Stats
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-bertochi&show_icons=true&theme=radical)
