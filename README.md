@@ -5,7 +5,6 @@
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pedro-bertochi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 
-
 Welcome to my GitHub profile! I'm Pedro Bertochi, a passionate software developer with a love for coding and problem-solving. Here you'll find a collection of my projects, contributions, and experiments.
 
 ## 🔧 Technologies & Tools
