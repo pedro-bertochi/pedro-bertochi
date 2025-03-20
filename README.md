@@ -2,7 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/pedro-bertochi?label=Follow&style=social)](https://github.com/pedro-bertochi)
 [![Linkedin: Pedro Bertochi](https://img.shields.io/badge/-pedro--bertochi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-bertochi/)](https://www.linkedin.com/in/pedro-bertochi/)
-![Visitors](https://img.shields.io/github/visitor-count/pedro-bertochi/pedro-bertochi?style=flat-square)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pedro-bertochi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
 
 
 Welcome to my GitHub profile! I'm Pedro Bertochi, a passionate software developer with a love for coding and problem-solving. Here you'll find a collection of my projects, contributions, and experiments.
